@@ -1,0 +1,95 @@
+*** Below is the output of the stack ***
+Top -> (251, 786) -> (786, 21) -> (21, 6) -> (6, 3) -> (3, 613) -> (613, 36) -> (36, 18) -> (18, 90) -> (90, 27) -> (27, 351) -> (351, 98) -> (98, 55) -> (55, 33) -> (33, 22) -> (22, 11) -> (11, 35) -> (35, 9) -> (9, 112) -> (112, 54) -> (54, 234) -> (234, NULL) -> NULL
+
+*** Below is the output of the queue at index 0, sorting on currentDigit: 0 ***
+Front(0) -> (90, NULL) -> NULL
+Back(0) -> (90, NULL) -> NULL
+
+*** Below is the output of the queue at index 1, sorting on currentDigit: 0 ***
+Front(1) -> (251, 21) -> (21, 351) -> (351, 11) -> (11, NULL) -> NULL
+Back(1) -> (11, NULL) -> NULL
+
+*** Below is the output of the queue at index 2, sorting on currentDigit: 0 ***
+Front(2) -> (22, 112) -> (112, NULL) -> NULL
+Back(2) -> (112, NULL) -> NULL
+
+*** Below is the output of the queue at index 3, sorting on currentDigit: 0 ***
+Front(3) -> (3, 613) -> (613, 33) -> (33, NULL) -> NULL
+Back(3) -> (33, NULL) -> NULL
+
+*** Below is the output of the queue at index 4, sorting on currentDigit: 0 ***
+Front(4) -> (54, 234) -> (234, NULL) -> NULL
+Back(4) -> (234, NULL) -> NULL
+
+*** Below is the output of the queue at index 5, sorting on currentDigit: 0 ***
+Front(5) -> (55, 35) -> (35, NULL) -> NULL
+Back(5) -> (35, NULL) -> NULL
+
+*** Below is the output of the queue at index 6, sorting on currentDigit: 0 ***
+Front(6) -> (786, 6) -> (6, 36) -> (36, NULL) -> NULL
+Back(6) -> (36, NULL) -> NULL
+
+*** Below is the output of the queue at index 7, sorting on currentDigit: 0 ***
+Front(7) -> (27, NULL) -> NULL
+Back(7) -> (27, NULL) -> NULL
+
+*** Below is the output of the queue at index 8, sorting on currentDigit: 0 ***
+Front(8) -> (18, 98) -> (98, NULL) -> NULL
+Back(8) -> (98, NULL) -> NULL
+
+*** Below is the output of the queue at index 9, sorting on currentDigit: 0 ***
+Front(9) -> (9, NULL) -> NULL
+Back(9) -> (9, NULL) -> NULL
+
+*** Below is the output of the queue at index 0, sorting on currentDigit: 1 ***
+Front(0) -> (3, 6) -> (6, 9) -> (9, NULL) -> NULL
+Back(0) -> (9, NULL) -> NULL
+
+*** Below is the output of the queue at index 1, sorting on currentDigit: 1 ***
+Front(1) -> (11, 112) -> (112, 613) -> (613, 18) -> (18, NULL) -> NULL
+Back(1) -> (18, NULL) -> NULL
+
+*** Below is the output of the queue at index 2, sorting on currentDigit: 1 ***
+Front(2) -> (21, 22) -> (22, 27) -> (27, NULL) -> NULL
+Back(2) -> (27, NULL) -> NULL
+
+*** Below is the output of the queue at index 3, sorting on currentDigit: 1 ***
+Front(3) -> (33, 234) -> (234, 35) -> (35, 36) -> (36, NULL) -> NULL
+Back(3) -> (36, NULL) -> NULL
+
+*** Below is the output of the queue at index 5, sorting on currentDigit: 1 ***
+Front(5) -> (251, 351) -> (351, 54) -> (54, 55) -> (55, NULL) -> NULL
+Back(5) -> (55, NULL) -> NULL
+
+*** Below is the output of the queue at index 8, sorting on currentDigit: 1 ***
+Front(8) -> (786, NULL) -> NULL
+Back(8) -> (786, NULL) -> NULL
+
+*** Below is the output of the queue at index 9, sorting on currentDigit: 1 ***
+Front(9) -> (90, 98) -> (98, NULL) -> NULL
+Back(9) -> (98, NULL) -> NULL
+
+*** Below is the output of the queue at index 0, sorting on currentDigit: 2 ***
+Front(0) -> (3, 6) -> (6, 9) -> (9, 11) -> (11, 18) -> (18, 21) -> (21, 22) -> (22, 27) -> (27, 33) -> (33, 35) -> (35, 36) -> (36, 54) -> (54, 55) -> (55, 90) -> (90, 98) -> (98, NULL) -> NULL
+Back(0) -> (98, NULL) -> NULL
+
+*** Below is the output of the queue at index 1, sorting on currentDigit: 2 ***
+Front(1) -> (112, NULL) -> NULL
+Back(1) -> (112, NULL) -> NULL
+
+*** Below is the output of the queue at index 2, sorting on currentDigit: 2 ***
+Front(2) -> (234, 251) -> (251, NULL) -> NULL
+Back(2) -> (251, NULL) -> NULL
+
+*** Below is the output of the queue at index 3, sorting on currentDigit: 2 ***
+Front(3) -> (351, NULL) -> NULL
+Back(3) -> (351, NULL) -> NULL
+
+*** Below is the output of the queue at index 6, sorting on currentDigit: 2 ***
+Front(6) -> (613, NULL) -> NULL
+Back(6) -> (613, NULL) -> NULL
+
+*** Below is the output of the queue at index 7, sorting on currentDigit: 2 ***
+Front(7) -> (786, NULL) -> NULL
+Back(7) -> (786, NULL) -> NULL
+

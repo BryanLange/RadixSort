@@ -1,0 +1,131 @@
+*** Below is the output of the stack ***
+Top -> (762, 1450) -> (1450, 794) -> (794, 771) -> (771, 660) -> (660, 764) -> (764, 1494) -> (1494, 1079) -> (1079, 0) -> (0, 788) -> (788, 1392) -> (1392, 1116) -> (1116, 1495) -> (1495, 764) -> (764, 849) -> (849, 780) -> (780, 223) -> (223, 882) -> (882, 981) -> (981, 763) -> (763, 1579) -> (1579, 761) -> (761, 927) -> (927, 778) -> (778, 968) -> (968, 1237) -> (1237, 769) -> (769, 759) -> (759, 889) -> (889, 767) -> (767, 1541) -> (1541, 757) -> (757, 747) -> (747, 1457) -> (1457, 791) -> (791, 664) -> (664, NULL) -> NULL
+
+*** Below is the output of the queue at index 0, sorting on currentDigit: 0 ***
+Front(0) -> (1450, 660) -> (660, 0) -> (0, 780) -> (780, NULL) -> NULL
+Back(0) -> (780, NULL) -> NULL
+
+*** Below is the output of the queue at index 1, sorting on currentDigit: 0 ***
+Front(1) -> (771, 981) -> (981, 761) -> (761, 1541) -> (1541, 791) -> (791, NULL) -> NULL
+Back(1) -> (791, NULL) -> NULL
+
+*** Below is the output of the queue at index 2, sorting on currentDigit: 0 ***
+Front(2) -> (762, 1392) -> (1392, 882) -> (882, NULL) -> NULL
+Back(2) -> (882, NULL) -> NULL
+
+*** Below is the output of the queue at index 3, sorting on currentDigit: 0 ***
+Front(3) -> (223, 763) -> (763, NULL) -> NULL
+Back(3) -> (763, NULL) -> NULL
+
+*** Below is the output of the queue at index 4, sorting on currentDigit: 0 ***
+Front(4) -> (794, 764) -> (764, 1494) -> (1494, 764) -> (764, 664) -> (664, NULL) -> NULL
+Back(4) -> (664, NULL) -> NULL
+
+*** Below is the output of the queue at index 5, sorting on currentDigit: 0 ***
+Front(5) -> (1495, NULL) -> NULL
+Back(5) -> (1495, NULL) -> NULL
+
+*** Below is the output of the queue at index 6, sorting on currentDigit: 0 ***
+Front(6) -> (1116, NULL) -> NULL
+Back(6) -> (1116, NULL) -> NULL
+
+*** Below is the output of the queue at index 7, sorting on currentDigit: 0 ***
+Front(7) -> (927, 1237) -> (1237, 767) -> (767, 757) -> (757, 747) -> (747, 1457) -> (1457, NULL) -> NULL
+Back(7) -> (1457, NULL) -> NULL
+
+*** Below is the output of the queue at index 8, sorting on currentDigit: 0 ***
+Front(8) -> (788, 778) -> (778, 968) -> (968, NULL) -> NULL
+Back(8) -> (968, NULL) -> NULL
+
+*** Below is the output of the queue at index 9, sorting on currentDigit: 0 ***
+Front(9) -> (1079, 849) -> (849, 1579) -> (1579, 769) -> (769, 759) -> (759, 889) -> (889, NULL) -> NULL
+Back(9) -> (889, NULL) -> NULL
+
+*** Below is the output of the queue at index 0, sorting on currentDigit: 1 ***
+Front(0) -> (0, NULL) -> NULL
+Back(0) -> (0, NULL) -> NULL
+
+*** Below is the output of the queue at index 1, sorting on currentDigit: 1 ***
+Front(1) -> (1116, NULL) -> NULL
+Back(1) -> (1116, NULL) -> NULL
+
+*** Below is the output of the queue at index 2, sorting on currentDigit: 1 ***
+Front(2) -> (223, 927) -> (927, NULL) -> NULL
+Back(2) -> (927, NULL) -> NULL
+
+*** Below is the output of the queue at index 3, sorting on currentDigit: 1 ***
+Front(3) -> (1237, NULL) -> NULL
+Back(3) -> (1237, NULL) -> NULL
+
+*** Below is the output of the queue at index 4, sorting on currentDigit: 1 ***
+Front(4) -> (1541, 747) -> (747, 849) -> (849, NULL) -> NULL
+Back(4) -> (849, NULL) -> NULL
+
+*** Below is the output of the queue at index 5, sorting on currentDigit: 1 ***
+Front(5) -> (1450, 757) -> (757, 1457) -> (1457, 759) -> (759, NULL) -> NULL
+Back(5) -> (759, NULL) -> NULL
+
+*** Below is the output of the queue at index 6, sorting on currentDigit: 1 ***
+Front(6) -> (660, 761) -> (761, 762) -> (762, 763) -> (763, 764) -> (764, 764) -> (764, 664) -> (664, 767) -> (767, 968) -> (968, 769) -> (769, NULL) -> NULL
+Back(6) -> (769, NULL) -> NULL
+
+*** Below is the output of the queue at index 7, sorting on currentDigit: 1 ***
+Front(7) -> (771, 778) -> (778, 1079) -> (1079, 1579) -> (1579, NULL) -> NULL
+Back(7) -> (1579, NULL) -> NULL
+
+*** Below is the output of the queue at index 8, sorting on currentDigit: 1 ***
+Front(8) -> (780, 981) -> (981, 882) -> (882, 788) -> (788, 889) -> (889, NULL) -> NULL
+Back(8) -> (889, NULL) -> NULL
+
+*** Below is the output of the queue at index 9, sorting on currentDigit: 1 ***
+Front(9) -> (791, 1392) -> (1392, 794) -> (794, 1494) -> (1494, 1495) -> (1495, NULL) -> NULL
+Back(9) -> (1495, NULL) -> NULL
+
+*** Below is the output of the queue at index 0, sorting on currentDigit: 2 ***
+Front(0) -> (0, 1079) -> (1079, NULL) -> NULL
+Back(0) -> (1079, NULL) -> NULL
+
+*** Below is the output of the queue at index 1, sorting on currentDigit: 2 ***
+Front(1) -> (1116, NULL) -> NULL
+Back(1) -> (1116, NULL) -> NULL
+
+*** Below is the output of the queue at index 2, sorting on currentDigit: 2 ***
+Front(2) -> (223, 1237) -> (1237, NULL) -> NULL
+Back(2) -> (1237, NULL) -> NULL
+
+*** Below is the output of the queue at index 3, sorting on currentDigit: 2 ***
+Front(3) -> (1392, NULL) -> NULL
+Back(3) -> (1392, NULL) -> NULL
+
+*** Below is the output of the queue at index 4, sorting on currentDigit: 2 ***
+Front(4) -> (1450, 1457) -> (1457, 1494) -> (1494, 1495) -> (1495, NULL) -> NULL
+Back(4) -> (1495, NULL) -> NULL
+
+*** Below is the output of the queue at index 5, sorting on currentDigit: 2 ***
+Front(5) -> (1541, 1579) -> (1579, NULL) -> NULL
+Back(5) -> (1579, NULL) -> NULL
+
+*** Below is the output of the queue at index 6, sorting on currentDigit: 2 ***
+Front(6) -> (660, 664) -> (664, NULL) -> NULL
+Back(6) -> (664, NULL) -> NULL
+
+*** Below is the output of the queue at index 7, sorting on currentDigit: 2 ***
+Front(7) -> (747, 757) -> (757, 759) -> (759, 761) -> (761, 762) -> (762, 763) -> (763, 764) -> (764, 764) -> (764, 767) -> (767, 769) -> (769, 771) -> (771, 778) -> (778, 780) -> (780, 788) -> (788, 791) -> (791, 794) -> (794, NULL) -> NULL
+Back(7) -> (794, NULL) -> NULL
+
+*** Below is the output of the queue at index 8, sorting on currentDigit: 2 ***
+Front(8) -> (849, 882) -> (882, 889) -> (889, NULL) -> NULL
+Back(8) -> (889, NULL) -> NULL
+
+*** Below is the output of the queue at index 9, sorting on currentDigit: 2 ***
+Front(9) -> (927, 968) -> (968, 981) -> (981, NULL) -> NULL
+Back(9) -> (981, NULL) -> NULL
+
+*** Below is the output of the queue at index 0, sorting on currentDigit: 3 ***
+Front(0) -> (0, 223) -> (223, 660) -> (660, 664) -> (664, 747) -> (747, 757) -> (757, 759) -> (759, 761) -> (761, 762) -> (762, 763) -> (763, 764) -> (764, 764) -> (764, 767) -> (767, 769) -> (769, 771) -> (771, 778) -> (778, 780) -> (780, 788) -> (788, 791) -> (791, 794) -> (794, 849) -> (849, 882) -> (882, 889) -> (889, 927) -> (927, 968) -> (968, 981) -> (981, NULL) -> NULL
+Back(0) -> (981, NULL) -> NULL
+
+*** Below is the output of the queue at index 1, sorting on currentDigit: 3 ***
+Front(1) -> (1079, 1116) -> (1116, 1237) -> (1237, 1392) -> (1392, 1450) -> (1450, 1457) -> (1457, 1494) -> (1494, 1495) -> (1495, 1541) -> (1541, 1579) -> (1579, NULL) -> NULL
+Back(1) -> (1579, NULL) -> NULL
+
